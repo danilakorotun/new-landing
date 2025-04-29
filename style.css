@@ -167,6 +167,10 @@ flex работает на основе статических единиц
     justify-content: center;
     align-items: center;
  }
+ .card-header{
+   justify-content: center;
+   align-items: center;
+ }
  .card-ico{
     display: flex;
     padding: 15px;
@@ -185,3 +189,4 @@ flex работает на основе статических единиц
  .card-text li{
     padding: 10px;
  }
+ 
